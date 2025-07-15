@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/home/ubuntu/static-personal-notes-app/app/layout":["static/media/2dc625304a276794-s.p.woff2","static/media/01f0c602c274ea55-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
